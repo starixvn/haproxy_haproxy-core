@@ -1,0 +1,7 @@
+#temporary mapping for vg
+^/uat/bandarqiuqiu/ l2_bandar_qiuqiu_service_uat_be
+^/uat/mongoexpress/ l2_mongo_express_service_uat_be
+
+^/sit/bandarqiuqiu/ l2_bandar_qiuqiu_service_sit_be
+^/sit/rickytest/ l2_bandar_qiu_qiu_client_sit_ricky_be
+^/sit/mongoexpress/ l2_mongo_express_service_sit_be

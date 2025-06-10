@@ -1,0 +1,6 @@
+^/uat/bandarqiuqiu/ l1_bandar_qiuqiu_service_uat_be
+^/uat/mongoexpress/ l1_mongo_express_service_uat_be
+
+^/sit/bandarqiuqiu/ l1_bandar_qiuqiu_service_sit_be
+^/sit/rickytest/ l1_bandar_qiu_qiu_client_sit_ricky_be
+^/sit/mongoexpress/ l1_mongo_express_service_sit_be
