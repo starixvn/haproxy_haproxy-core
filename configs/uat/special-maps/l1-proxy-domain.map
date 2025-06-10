@@ -56,6 +56,7 @@
 ^/uat/game-client-117/ l1_god_of_fortune_client_uat_be
 ^/uat/site-121/ l1_wukongs_revenge_client_uat_be
 ^/uat/site-126/ l1_poseidons_realm_client_uat_be
+^/uat/site-130/ l1_aladdin_client_uat_be
 ^/uat/site-114/ l1_marble_football_2_client_uat_be
 ^/uat/direct-client-103/ l1_direct_seven_up_down_client_uat_be
 ^/uat/direct-client-114/ l1_direct_marble_football_2_client_uat_be
@@ -157,6 +158,7 @@
 ^/sit/site-114/ l1_marble_football_2_client_sit_be
 ^/sit/site-121/ l1_wukongs_revenge_client_sit_be
 ^/sit/site-126/ l1_poseidons_realm_client_sit_be
+^/sit/site-130/ l1_aladdin_client_sit_be
 ^/sit/direct-client-93/ l1_direct_football_coin_toss_client_sit_be
 ^/uat/direct-client-93/ l1_direct_football_coin_toss_client_uat_be
 ^/sit/game-client-133/ l1_temple_of_caishen_client_sit_be
