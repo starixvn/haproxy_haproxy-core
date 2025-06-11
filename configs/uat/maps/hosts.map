@@ -39,6 +39,7 @@ l2uatadminapi.sgamesuat.com l2_admin_api_uat_be
 l2uathistory.sgamesuat.com l2_game_history_uat_be
 l2uatawsapi.sgamesuat.com l2_sg_api_uat_be
 l2uatdirect.sgamesuat.com l2_direct_uat_be
+l2uatlanglive.sgamesuat.com l2_lang_live_client_uat_be
 
 ## SIT
 l2sitkeno.sgamesuat.com l2_keno_sit_be
@@ -49,6 +50,7 @@ l2sitadminapi.sgamesuat.com l2_admin_api_sit_be
 l2sithistory.sgamesuat.com l2_game_history_sit_be
 l2sitawsapi.sgamesuat.com l2_sg_api_sit_be
 l2sitdirect.sgamesuat.com l2_direct_sit_be
+l2sitlanglive.sgamesuat.com l2_lang_live_client_sit_be
 
 ### GN
 ## UAT
