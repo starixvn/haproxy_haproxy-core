@@ -1,0 +1,34 @@
+## Prod
+deployapi-eks.sabagame.com deployapi_eks_be
+eks-ingress.sabagame.com prod_eks_ingress_be
+prod-sc-web1.sportsfun.app website1_be
+portainer.sportsfun.app portainer_be
+#grafana.sportsfun.app grafana_be
+#g-nex.sportsfun.app grafana_be
+#g-lumi.sportsfun.app grafana_be
+prometheus-eks-prod.sportsfun.app prometheus_be
+
+mini.sabagame.com l1_instant_game_client_PROD_be
+mini.gamesaba.com l1_instant_game_client_PROD_be
+m.gamesaba.com l1_game_client_mobi_PROD_be
+m.sabagame.com l1_game_client_mobi_PROD_be
+direct.gamesaba.com l1_game_direct_client_PROD_be
+direct.sabagame.com l1_game_direct_client_PROD_be
+keno.gamesaba.com l1_game_client_mega_keno_mobi_PROD_be
+keno.sabagame.com l1_game_client_mega_keno_mobi_PROD_be
+taisaba.com l1_app_download_site_client_PROD_be
+www.taisaba.com l1_app_download_site_client_PROD_be
+
+sabagame.com l1_game_client_prod_be
+gamesaba.com l1_game_client_prod_be
+www.sabagame.com l1_game_client_prod_be
+www.gamesaba.com l1_game_client_prod_be
+
+# GN
+www.numberx.win gn_game_client_prod_be
+w2.numberx.win gn_game_client_prod_be
+
+# SK
+www.sabakeno.com sk_game_client_prod_be
+www.kenosaba.com sk_game_client_prod_be
+
