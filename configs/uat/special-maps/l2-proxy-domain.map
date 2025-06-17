@@ -161,6 +161,8 @@
 ^/sit/site-130/ l2_aladdins_wishes_client_sit_be
 ^/uat/site-131/ l2_happy_farm_client_uat_be
 ^/sit/site-131/ l2_happy_farm_client_sit_be
+^/uat/site-129/ l2_wild_west_most_wanted_client_uat_be
+^/sit/site-129/ l2_wild_west_most_wanted_client_sit_be
 ^/sit/direct-client-93/ l2_direct_football_coin_toss_client_sit_be
 ^/uat/direct-client-93/ l2_direct_football_coin_toss_client_uat_be
 ^/sit/game-client-133/ l2_temple_of_caishen_client_sit_be
