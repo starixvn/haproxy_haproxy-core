@@ -56,6 +56,7 @@
 ^/uat/site-114/ l2_marble_football_2_client_uat_be
 ^/uat/direct-client-103/ l2_direct_seven_up_down_client_uat_be
 ^/uat/direct-client-114/ l2_direct_marble_football_2_client_uat_be
+^/uat/site-instant-v2/ l2_instant_game_v2_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l2_fantan_client_sit_be
@@ -179,4 +180,4 @@
 ^/sit/direct-client-114/ l2_direct_marble_football_2_client_sit_be
 ^/sit/direct-client-4/ l2_direct_turbo_big_small_game_client_sit_be
 ^/uat/direct-client-4/ l2_direct_turbo_big_small_game_client_uat_be
-
+^/sit/site-instant-v2/ l2_instant_game_v2_client_sit_be
