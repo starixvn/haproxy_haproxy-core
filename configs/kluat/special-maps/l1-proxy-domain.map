@@ -173,5 +173,11 @@
 ^/sit/direct-client-114/ l1_direct_marble_football_2_client_sit_be
 ^/sit/direct-client-4/ l1_direct_turbo_big_small_game_client_sit_be
 ^/uat/direct-client-4/ l1_direct_turbo_big_small_game_client_uat_be
+^/sit/site-130/ l1_aladdins_wishes_client_sit_be
+^/sit/site-131/ l1_happy_farm_client_sit_be
+^/sit/site-129/ l1_wild_west_most_wanted_client_sit_be
+^/uat/site-130/ l1_aladdins_wishes_client_uat_be
+^/uat/site-131/ l1_happy_farm_client_uat_be
+^/uat/site-129/ l1_wild_west_most_wanted_client_uat_be
 
 
