@@ -80,6 +80,8 @@
 /site-126/ l1_poseidons_realm_client_prod_be
 /site-130/ l1_aladdins_wishes_client_prod_be
 /site-131/ l1_happy_farm_client_prod_be
+/site-127/ l1_mahjong_wins_client_prod_be
+/site-129/ l1_wild_west_most_wanted_client_prod_be
 
 ^/site-113/ l1_rocketx_client_prod_be
 /direct-client-93/ l1_direct_football_coin_toss_client_prod_be

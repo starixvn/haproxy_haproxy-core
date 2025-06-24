@@ -79,6 +79,8 @@
 /site-121/ l2_wukongs_revenge_client_prod_be
 /site-126/ l2_poseidons_realm_client_prod_be
 /site-131/ l2_happy_farm_client_prod_be
+/site-127/ l2_mahjong_wins_client_prod_be
+/site-129/ l2_wild_west_most_wanted_client_prod_be
 
 ^/site-113/ l2_rocketx_client_prod_be
 /direct-client-93/ l2_direct_football_coin_toss_client_prod_be
