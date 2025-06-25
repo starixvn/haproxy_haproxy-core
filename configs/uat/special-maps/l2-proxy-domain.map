@@ -166,6 +166,10 @@
 ^/sit/site-127/ l2_mahjong_wins_client_sit_be
 ^/uat/site-129/ l2_wild_west_most_wanted_client_uat_be
 ^/sit/site-129/ l2_wild_west_most_wanted_client_sit_be
+^/sit/site-128/ l2_aztec_princess_client_sit_be
+^/sit/site-132/ l2_fruit_samurai_client_sit_be
+^/uat/site-128/ l2_aztec_princess_client_uat_be
+^/uat/site-132/ l2_fruit_samurai_client_uat_be
 ^/sit/direct-client-93/ l2_direct_football_coin_toss_client_sit_be
 ^/uat/direct-client-93/ l2_direct_football_coin_toss_client_uat_be
 ^/sit/game-client-133/ l2_temple_of_caishen_client_sit_be

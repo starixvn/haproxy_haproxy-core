@@ -60,6 +60,8 @@
 ^/uat/site-131/ l1_happy_farm_client_uat_be
 ^/uat/site-127/ l1_mahjong_wins_client_uat_be
 ^/uat/site-129/ l1_wild_west_most_wanted_client_uat_be
+^/uat/site-128/ l1_aztec_princess_client_uat_be
+^/uat/site-132/ l1_fruit_samurai_client_uat_be
 ^/uat/site-114/ l1_marble_football_2_client_uat_be
 ^/uat/direct-client-103/ l1_direct_seven_up_down_client_uat_be
 ^/uat/direct-client-114/ l1_direct_marble_football_2_client_uat_be
@@ -165,6 +167,8 @@
 ^/sit/site-131/ l1_happy_farm_client_sit_be
 ^/sit/site-127/ l1_mahjong_wins_client_sit_be
 ^/sit/site-129/ l1_wild_west_most_wanted_client_sit_be
+^/sit/site-128/ l1_aztec_princess_client_sit_be
+^/sit/site-132/ l1_fruit_samurai_client_sit_be
 ^/sit/direct-client-93/ l1_direct_football_coin_toss_client_sit_be
 ^/uat/direct-client-93/ l1_direct_football_coin_toss_client_uat_be
 ^/sit/game-client-133/ l1_temple_of_caishen_client_sit_be
