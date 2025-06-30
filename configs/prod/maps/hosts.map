@@ -8,11 +8,8 @@ portainer.sportsfun.app portainer_be
 #g-lumi.sportsfun.app grafana_be
 prometheus-eks-prod.sportsfun.app prometheus_be
 
-mini.sabagame.com l1_instant_game_client_PROD_be
-mini.gamesaba.com l1_instant_game_client_PROD_be
-
-services.sabagame.com l1_instant_lobby_game_client_PROD_be
-adminapi.sabagame.com l1_instant_lobby_game_client_PROD_be
+mini.sabagame.com l1_instant_lobby_game_client_PROD_be
+mini.gamesaba.com l1_instant_lobby_game_client_PROD_be
 
 m.gamesaba.com l1_game_client_mobi_PROD_be
 m.sabagame.com l1_game_client_mobi_PROD_be
